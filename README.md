@@ -17,23 +17,23 @@ Création du dataframe <br/>
 <br />
 <br />
 Première visualisation:  <br/>
-<img src="https://imgur.com/YVKyST6"/>
+<img src="https://i.imgur.com/YVKyST6.png" height="80%" width="80%" alt="Première visualisation"/>
 <br />
 <br />
 Création du modèle: <br/>
-<img src="https://imgur.com/undefined"/>
+<img src="https://i.imgur.com/RIuXCgk.png" height="80%" width="80%" alt="Création du modèle"/>
 <br />
 <br />
 Rapport:  <br/>
-<img src="https://imgur.com/JmsTQeM"/>
+<img src="https://i.imgur.com/JmsTQeM.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />
 Rapport:  <br/>
-<img src="https://imgur.com/WOdSmNt"/>
+<img src="https://i.imgur.com/WOdSmNt.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />
 Rapport:  <br/>
-<img src="https://imgur.com/8V1u8g8"/>
+<img src="https://i.imgur.com/8V1u8g8.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />
 

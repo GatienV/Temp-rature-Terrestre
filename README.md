@@ -1,4 +1,4 @@
-<h1>Température Terrestre</h1>
+<h1>Temperature Terrestre</h1>
 
 <h2>Description</h2>
 Le projet avait pour but d'analyser l'évolution des anomalies de température dans le monde et d'en définir les causes. Puis nous avons décidé de prédire les températures à venir. 

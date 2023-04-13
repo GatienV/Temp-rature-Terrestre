@@ -13,7 +13,7 @@ Le projet avait pour but d'analyser l'évolution des anomalies de température d
 
 <p align="center">
 Création du dataframe <br/>
-<img src="https://imgur.com/mcPfkk7"/>
+<img src="[https://imgur.com/mcPfkk7](https://i.imgur.com/mcPfkk7.png)"/>
 <br />
 <br />
 Première visualisation:  <br/>

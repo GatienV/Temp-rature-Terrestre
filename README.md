@@ -24,7 +24,7 @@ Création du modèle: <br/>
 <img src="https://i.imgur.com/RIuXCgk.png" height="80%" width="80%" alt="Création du modèle"/>
 <br />
 <br />
-Rapport:  <br/>
+Power BI anomalie de température:  <br/>
 <img src="https://i.imgur.com/JmsTQeM.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />

@@ -32,7 +32,7 @@ Power BI Machine Learning:  <br/>
 <img src="https://i.imgur.com/WOdSmNt.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />
-Séerie Temporelle:  <br/>
+Série Temporelle:  <br/>
 <img src="https://i.imgur.com/8V1u8g8.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />
